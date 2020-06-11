@@ -9,4 +9,4 @@ def snake_it_up(string)
   end
 end
 
-puts snake_it_up
+puts snake_it_up(surprise)
